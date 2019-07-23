@@ -1,2 +1,2 @@
 # Convert-csv
-Service app which generate new column to table
+Python file which generate new column to table
